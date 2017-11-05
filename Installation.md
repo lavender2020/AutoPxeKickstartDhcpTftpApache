@@ -82,8 +82,8 @@ label cli
 #### 编辑文件default     
 
 vim /var/lib/tftpboot/pxelinux.cfg/default     
-# D-I config version 2.0    
-# search path for the c32 support libraries (libcom32, libutil etc.)    
+\# D-I config version 2.0    
+\# search path for the c32 support libraries (libcom32, libutil etc.)    
 path ubuntu-installer/amd64/boot-screens/      
 include ubuntu-installer/amd64/boot-screens/menu.cfg     
 default ubuntu-installer/amd64/boot-screens/vesamenu.c32     
