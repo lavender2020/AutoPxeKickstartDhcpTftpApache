@@ -1,5 +1,5 @@
 # AutoPxeKickstartDhcpTftpApache
-Fully Automatic installation of Ubuntu server
+Fully Automatic installation of Ubuntu server       
 Pxe network boot     
 kickstart    
 dhcp    
